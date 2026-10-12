@@ -1,0 +1,38 @@
+{
+    "settings": {
+        "title": "Settings",
+        "language": "Language",
+        "english": "English",
+        "arabic": "Arabic",
+        "currency": "Currency",
+        "timezone": "Timezone",
+        "taxRate": "Tax Rate",
+        "receiptHeader": "Receipt Header",
+        "receiptFooter": "Receipt Footer",
+        "exchangeRates": "Exchange Rates",
+        "requireShift": "Require an open shift to sell",
+        "requireShiftHint": "Cashiers must open a shift with an opening float before they can check out."
+    },
+    "branches": {
+        "title": "Branches",
+        "addBranch": "Add Branch",
+        "editBranch": "Edit Branch",
+        "name": "Branch Name",
+        "address": "Address",
+        "phone": "Phone",
+        "users": "Users",
+        "noBranches": "No branches found",
+        "manageBranches": "Manage your tenant branches"
+    },
+    "locations": {
+        "title": "Locations",
+        "addLocation": "Add Location",
+        "editLocation": "Edit Location",
+        "name": "Location Name",
+        "branch": "Branch",
+        "type": "Type",
+        "warehouse": "Warehouse",
+        "noLocations": "No locations found",
+        "manageLocations": "Manage storage locations"
+    }
+}
